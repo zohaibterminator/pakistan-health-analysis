@@ -43,4 +43,4 @@ The dataset represents detailed information on patient visits, including:
 For key insights and findings, refer to the project report pdf.
 
 ## Acknowledgements
-- [atomcamp](https://www.atomcamp.com/)
+- Thanks to [atomcamp](https://www.atomcamp.com/) for the dataset and the excellent learning experience.
